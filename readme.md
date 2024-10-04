@@ -1,1 +1,1 @@
-using "nodemon" to att express changes auto.
+nodejs, mysql(db), express(framework), handlebars(compiler), sequelize(ORM), nodemon(like liveServer)
