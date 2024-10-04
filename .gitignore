@@ -15,4 +15,4 @@ Thumbs.db
 coverage/
 *.tgz
 *.gz
-*.temp.js
+*.tmp.js
