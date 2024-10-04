@@ -1,1 +1,0 @@
-Não precisa mais ser utilizado assim pois o módulo Express facilita podendo utilizar apenas "app.listen(port)"

@@ -1,1 +1,0 @@
-Aqui aprendo como exportar módulos (pasta /module) e utilizalos, facilitando o desenvolvimento.
